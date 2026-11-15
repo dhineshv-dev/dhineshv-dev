@@ -24,10 +24,12 @@ Developed an e-commerce application with a product catalog, authentication, shop
 
 **Stack:** Java · Spring Boot · Spring Security · JPA/Hibernate · MySQL
 
-### 🌱 Smart Motor — AI-Based Agriculture Motor Protection
-Designed a monitoring system for agricultural motors to detect abnormal conditions and provide early fault alerts.
+### 🌱 [Smart Motor — Simulation-Based Agriculture Monitoring](projects/smart-motor.md)
+Built a software prototype with simulated sensor readings, rule-based motor protection, anomaly detection, and a Tamil/English voice assistant. ESP32 firmware and physical sensor integration are planned, not implemented.
 
-**Stack:** ESP32 · Python · Machine Learning · IoT sensors
+**Stack:** Java · Spring Boot · MySQL · React · Python · Flask · scikit-learn · Docker · Ollama
+
+[Read the project overview](projects/smart-motor.md) — source repository currently private.
 
 ### 💻 [Developer Portfolio](https://github.com/dhineshv-dev/placement-portfolio)
 A responsive developer portfolio built with React, Vite, and Tailwind CSS.
