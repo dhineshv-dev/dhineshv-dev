@@ -19,10 +19,11 @@ I'm a B.E. Computer Science and Engineering student at Vel Tech Multi Tech Engin
 
 ## Selected Projects
 
-### 🛒 ShopEase — E-commerce Application
-Developed an e-commerce application with a product catalog, authentication, shopping cart, and order management. Implemented REST APIs using Spring Boot, Spring Security, and MySQL.
+### ShopEasy — Spring Boot Backend Learning Project
 
-**Stack:** Java · Spring Boot · Spring Security · JPA/Hibernate · MySQL
+Created an initial Spring Boot project while learning backend development. The current version includes a Java application entry point, Maven configuration, Spring Web MVC dependencies, and a basic application-context test. Product APIs, authentication, cart, orders, and database integration are not yet implemented.
+
+**Technologies:** Java, Spring Boot, Spring Web MVC, Maven, JUnit.
 
 ### 🌱 [Smart Motor — Simulation-Based Agriculture Monitoring](projects/smart-motor.md)
 Built a software prototype with simulated sensor readings, rule-based motor protection, anomaly detection, and a Tamil/English voice assistant. ESP32 firmware and physical sensor integration are planned, not implemented.
